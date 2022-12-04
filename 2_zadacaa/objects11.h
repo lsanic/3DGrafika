@@ -4,7 +4,7 @@
 #include "material.h"
 #include <iostream>
 using namespace std;
-
+///iz nekog razloga ne radi ray trace iako objects i objects1 rade
 struct Object
 {
     Material material;
